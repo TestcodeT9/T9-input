@@ -1,0 +1,18 @@
+# T9 Input
+%gen_inp
+%ename T9 INPUT
+%cname T9筆劃
+%selkey uiojkp
+%keyname begin
+u 一
+i 丨
+o 丿
+j 丶
+k フ
+p *
+%keyname end
+%chardef begin
+p ，
+p 。
+p 、
+p "
