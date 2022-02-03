@@ -1,1 +1,2 @@
 # T9-input
+%AUTO_COMPOSE
